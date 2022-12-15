@@ -8,4 +8,6 @@ Nothing more.
 Again editing the file to show more about git commands. 
 
 Website contents 
+
+Here are the files in the website. 
 index.html
