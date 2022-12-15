@@ -8,5 +8,4 @@ Nothing more.
 Again editing the file to show more about git commands. 
 
 Website contents 
-index.html 
-
+index.html
